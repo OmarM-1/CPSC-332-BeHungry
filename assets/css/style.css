@@ -1,0 +1,28 @@
+body {
+    font-family: arial, sans-serif;
+    margin: 0;
+    background: #fafafa;
+}
+
+header {
+    background: #cfa4f6;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin-right: 1rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 900px;
+    margin: 1.5rem auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2 6px rgba(0, 0, 0, 0.08);
+}

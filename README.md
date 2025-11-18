@@ -1,4 +1,4 @@
-CPSC-332 Project Proposal
+CPSC-332 Project
 
 
 BeHungry

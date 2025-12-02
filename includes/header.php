@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <title>BeHungry</title>
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="/BeHungry/assets/css/style.css?v=<?= time() ?>">
 </head>
 <body>
 <header>

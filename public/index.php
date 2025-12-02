@@ -12,7 +12,7 @@ $recipes = $stmt->fetchAll();
 include '../includes/header.php';
 ?>
 
-<h2>Latest Recipes</h2>
+<h2>Latest Recipe</h2>
 <?php if (!$recipes): ?>
     <p>No recipes yet.</p>
 <?php else: ?>
